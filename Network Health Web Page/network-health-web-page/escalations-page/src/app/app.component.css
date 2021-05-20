@@ -1,0 +1,28 @@
+
+.mat-tab-labels, .mat-tab-label, .mat-tab-link {
+    color: rgb(245, 236, 236);
+    font-size: 16px;
+    background-color: #030303;
+  }
+  
+  .mat-tab-group.mat-primary .mat-ink-bar, .mat-tab-nav-bar.mat-primary .mat-ink-bar{
+    background: rgb(3, 153, 223);
+    height: 5px; 
+  }
+
+  p {
+    display: block;
+    margin-left: 275px;
+    margin-right: 275px; 
+    margin-top: 50px;
+
+  }
+
+  .leader {
+    border: 5px solid black;
+    margin-right:30px;
+    margin-left: 30px;
+    width: 110px;
+    height: 150px;
+    
+  }

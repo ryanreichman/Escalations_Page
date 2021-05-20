@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+
+<html>
+    <head>
+        <title> Better Breakfast Bureau </title>
+        <link href='./Themes-css.css' rel='stylesheet'>
+    </head>
+  
+    <body>
+        <header>
+            <h1> Welcome to the Better Breakfast Bureau! </h1>
+        </header>
+        <section id="main">
+            <h2> About Us: </h2>
+            <p> Hello! Our names are Ryan and Evann, and we love breakfast! 
+            The purpose of this blog is to share some of the best breakfast places that we have found.</p>
+            <img src="./Engagement.jpg" width="650" height="500" />
+            <article>
+                <h3> How We Got Started </h3>
+                <p> Here is where we will go into greater detail about us and our love of breakfast food</p>
+            </article>
+        </section>
+        <section id="places">
+            <h3> Here are some of the places we have visited: </h3>
+                <ul>
+                    <li> Denver Metro Area </li>
+                    <li> Silverthorne </li>
+                    <li> South Carolina - Isle of Palms </li>
+                   <h4> <li> Chicago </li> </h4>
+                        <ul>
+                            <li> <a href="https://www.breakfast-house.com/" target="_blank"> The Breakfast House </a> </li>
+                            <img src="https://images.squarespace-cdn.com/content/v1/5f281d3fe5efb224b15232a7/1597083174250-YY6Z6AZETT531S30YKBQ/ke17ZwdGBToddI8pDm48kDiCpvnPaRSi1lhhMabWTAwUqsxRUqqbr1mOJYKfIPR7LoDQ9mXPOjoJoqy81S2I8N_N4V1vUb5AoIIIbLZhVYxCRW4BPu10St3TBAUQYVKcUuAmEblzVFypehJnHGZb1uoQZaYblA5kpQCI7rQVPaHS00Bdiu7RHL4kxMQ32sA6/H80A9859.jpg" width="350" height="300" />
+                            <p> Even though it was breakfast time, Diego's Fried Chicken Sandwich looked too dang good to pass up. I was in heaven. </p>
+                            <li> </li>
+                        </ul>
+                </ul>
+        </section>
+    </body>
+
+
+</html>
